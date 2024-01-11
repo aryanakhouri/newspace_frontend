@@ -1,0 +1,11 @@
+.individual_task{
+    background-color: gray;
+    border : 1px solid black;
+    margin: 1px;
+    padding: 10px;
+    border-radius: 50px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
